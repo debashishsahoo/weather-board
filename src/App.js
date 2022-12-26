@@ -41,7 +41,7 @@ function App() {
   };
 
   return (
-    <div className={`bg-gradient-to-br ${changeBackgroundColor()} mx-auto mt-4 py-5 px-32 h-max max-w-screen-lg `}>
+    <div className={`bg-gradient-to-br ${changeBackgroundColor()} mx-auto mt-4 py-5 px-32 h-max max-w-screen-lg`}>
       { weather ?
         <div>
           <Header weather={weather} />
