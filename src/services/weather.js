@@ -3,7 +3,7 @@
 import {DateTime} from "luxon"; // For reliable and convenient formatting of date and time objects
 
 const BASE_URL = "https://api.openweathermap.org/data/2.5/";
-const API_KEY = "1a19484871efffe07f43e3fe001145c9"; // INSERT YOUR API KEY HERE (From openweathermap.org)
+const API_KEY = ""; // INSERT YOUR API KEY HERE (From openweathermap.org)
 
 const getRelevantWeatherData = async (searchParams) => {
     const currentWeatherData = await 
