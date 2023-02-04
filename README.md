@@ -9,9 +9,9 @@ Built using React, **Weather Board** provides you with a simple dashboard that d
 - Allows the user to see the weather in their current location by simply clicking the pinpoint icon to the right of the search bar, provided the browser receives permission to access the user's location.
 - Changes background colors to reflect the temperature at the location.
 
-![]()
-![]()
-![]()
+![](https://user-images.githubusercontent.com/69211573/209554451-f7ac4dd7-f067-4ac2-9bde-b6bd0361854c.png)
+![](https://user-images.githubusercontent.com/69211573/209554476-4eaa9524-df08-44d3-8cd9-e540b1c1adb3.png)
+![](https://user-images.githubusercontent.com/69211573/209554483-d3ce11e0-c9a9-4142-83dc-102411f50db0.png)
 
 ## How To Run This Project
 
